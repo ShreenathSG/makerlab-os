@@ -1,0 +1,9 @@
+build/
+__pycache__/
+*.py[cod]
+data/
+*.db
+*.db-shm
+*.db-wal
+.DS_Store
+.venv/
